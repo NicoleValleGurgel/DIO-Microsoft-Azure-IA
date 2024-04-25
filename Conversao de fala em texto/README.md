@@ -1,1 +1,1 @@
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1o82DwNisONAd2mu1RcGE6?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/b7837010-99bf-424b-a5e9-d7974f41344e)
