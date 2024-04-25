@@ -1,0 +1,1020 @@
+{
+    "documents": [
+        {
+            "id": "id__411",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.28,
+                "neutral": 0.25,
+                "negative": 0.47
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.12,
+                        "negative": 0.87
+                    },
+                    "offset": 0,
+                    "length": 134,
+                    "text": "o jogo do Esquadrão Suicida, foi uma grande vítima da má-vontade que afetou tanto a comunidade quanto a mídia especializada de games. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 2,
+                            "length": 4,
+                            "text": "jogo",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 54,
+                            "length": 10,
+                            "text": "má-vontade",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.05,
+                        "negative": 0.95
+                    },
+                    "offset": 134,
+                    "length": 202,
+                    "text": "Desde que seus primeiros detalhes foram revelados, evidenciando que o novo título da Rocksteady se aproximaria do formato de jogo como serviço, a internet, como entidade, decidiu que o jogo seria ruim. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.13,
+                        "negative": 0.85
+                    },
+                    "offset": 336,
+                    "length": 95,
+                    "text": "E sejamos francos, a própria Rocksteady não se ajudou para evitar que essa ideia fosse criada. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 365,
+                            "length": 10,
+                            "text": "Rocksteady",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 383,
+                            "length": 6,
+                            "text": "ajudou",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.02,
+                        "negative": 0.97
+                    },
+                    "offset": 431,
+                    "length": 119,
+                    "text": "Os primeiros trailers foram desastrosos, e a desenvolvedora parecia se esforçar para esconder o gênero de sua criação. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.1,
+                                "negative": 0.9
+                            },
+                            "offset": 444,
+                            "length": 8,
+                            "text": "trailers",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.1,
+                                "negative": 0.9
+                            },
+                            "offset": 459,
+                            "length": 11,
+                            "text": "desastrosos",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.07,
+                        "negative": 0.92
+                    },
+                    "offset": 550,
+                    "length": 115,
+                    "text": "O lançamento, então, foi a cereja do bolo: com o bug em seu acesso antecipado, era fácil cravar de vez o desastre. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.51,
+                        "negative": 0.47
+                    },
+                    "offset": 665,
+                    "length": 21,
+                    "text": "Mas não é bem assim. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.86,
+                        "neutral": 0.12,
+                        "negative": 0.02
+                    },
+                    "offset": 686,
+                    "length": 80,
+                    "text": "Esquadrão Suicida é um jogo sólido, e que chega a ser ótimo em alguns momentos. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 709,
+                            "length": 4,
+                            "text": "jogo",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 686,
+                            "length": 17,
+                            "text": "Esquadrão Suicida",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 714,
+                            "length": 6,
+                            "text": "sólido",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 740,
+                            "length": 5,
+                            "text": "ótimo",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.43,
+                        "neutral": 0.47,
+                        "negative": 0.1
+                    },
+                    "offset": 766,
+                    "length": 174,
+                    "text": "Microtransações, skins e conteúdos online carregam inúmeros estigmas, mas o carisma dos personagens somado a um gameplay divertido é suficiente para superar os preconceitos. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 878,
+                            "length": 8,
+                            "text": "gameplay",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/7/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 887,
+                            "length": 9,
+                            "text": "divertido",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.24,
+                        "negative": 0.71
+                    },
+                    "offset": 940,
+                    "length": 210,
+                    "text": "Apostando em um humor que flutua entre o cringe e o ousado desde sua primeira cena, Suicide Squad começa com uma proposta difícil de digerir: como vilões tão fracos podem bater de frente com a Liga da Justiça? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.63,
+                        "negative": 0.3
+                    },
+                    "offset": 1150,
+                    "length": 81,
+                    "text": "E como vencer Brainiac, o responsável por domar os heróis e destruir Metrópolis? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.89,
+                        "negative": 0.02
+                    },
+                    "offset": 1231,
+                    "length": 192,
+                    "text": "A resposta está em alguns recursos de roteiro para que o quarteto de protagonistas, composto por Arlequina, Pistoleiro, Tubarão-Rei e Capitão Bumerangue, tenha caminhos para ficar mais forte. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.59,
+                        "negative": 0.39
+                    },
+                    "offset": 1423,
+                    "length": 206,
+                    "text": "A primeira vez que esse atalho é usado está ainda na sequência inicial do game, quando cada personagem rouba equipamentos que os dão mobilidade — com exceção do Tubarão, que já consegue dar saltos enormes. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.81,
+                        "neutral": 0.17,
+                        "negative": 0.02
+                    },
+                    "offset": 1629,
+                    "length": 253,
+                    "text": "Esse novo equipamento é a chave para a parte mais divertida do jogo: explorar a cidade com as diferentes opções de movimentação é divertidíssimo e, com maestria o suficiente, tão satisfatório quanto se balançar pelas teias de Marvel's Spider-Man 1 e 2. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1639,
+                            "length": 11,
+                            "text": "equipamento",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/12/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/12/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1692,
+                            "length": 4,
+                            "text": "jogo",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/12/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/12/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1759,
+                            "length": 14,
+                            "text": "divertidíssimo",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1808,
+                            "length": 12,
+                            "text": "satisfatório",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.54,
+                        "neutral": 0.38,
+                        "negative": 0.08
+                    },
+                    "offset": 1882,
+                    "length": 126,
+                    "text": "O cenário bem verticalizado, cheio de prédios e andares, se mistura bem com o combate caótico, onde inimigos ocupam terraços. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.55,
+                        "neutral": 0.41,
+                        "negative": 0.05
+                    },
+                    "offset": 2008,
+                    "length": 173,
+                    "text": "Movimentar-se entre as construções e sair atirando no exército de Brainiac pode até ser repetitivo, mas a sensação de poder transmitida pelo controle é uma boa compensação. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.41,
+                        "negative": 0.57
+                    },
+                    "offset": 2181,
+                    "length": 66,
+                    "text": "Não é apenas Metrópolis que está tomada por um caos apocalíptico. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.83,
+                        "negative": 0.14
+                    },
+                    "offset": 2247,
+                    "length": 100,
+                    "text": "Ao jogar Esquadrão Suicida, sua tela também será tomada por uma enxurrada de números e informações. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.27,
+                        "negative": 0.71
+                    },
+                    "offset": 2347,
+                    "length": 104,
+                    "text": "Tudo é exagerado em cores e tamanhos, e a combinação desses fatores pode deixar o jogador desorientado; ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 2367,
+                            "length": 5,
+                            "text": "cores",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/17/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 2354,
+                            "length": 9,
+                            "text": "exagerado",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.35,
+                        "neutral": 0.46,
+                        "negative": 0.19
+                    },
+                    "offset": 2451,
+                    "length": 73,
+                    "text": "felizmente, é possível desativar vários dos elementos que poluem a tela. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.49,
+                        "negative": 0.38
+                    },
+                    "offset": 2524,
+                    "length": 102,
+                    "text": "Em meio a essas dificuldades, o combate ainda consegue se sustentar bem contra as hordas de inimigos. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2626,
+                    "length": 88,
+                    "text": "Cada personagem é equipado com duas armas de fogo, uma de corpo-a-corpo, e uma granada; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.79,
+                        "neutral": 0.19,
+                        "negative": 0.02
+                    },
+                    "offset": 2714,
+                    "length": 193,
+                    "text": "num jogo que se aproxima muito do looter shooter, essas quatro ferramentas de luta vêm com enorme variedade, e é muito fácil diversificar seu estilo de gameplay para aquilo que mais te agrada. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2907,
+                    "length": 70,
+                    "text": "Armas têm suas variações com diferentes buffs e habilidades passivas; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.83,
+                        "negative": 0.16
+                    },
+                    "offset": 2977,
+                    "length": 101,
+                    "text": "granadas e corpo-a-corpo podem causar variados efeitos nos inimigos, como congelamento e queimadura. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.91,
+                        "negative": 0.04
+                    },
+                    "offset": 3078,
+                    "length": 65,
+                    "text": "Portanto, sempre haverá um jeito novo de encarar os alienígenas. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 3143,
+                    "length": 73,
+                    "text": "Isso ainda se junta à óbvia proposta de ter quatro personagens jogáveis. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.02
+                    },
+                    "offset": 3216,
+                    "length": 131,
+                    "text": "O jeito que cada um deles se movimenta pelo mapa é bem único, consequentemente, batalhar com um ou outro também será bem diferente.",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.82,
+                        "negative": 0.16
+                    },
+                    "offset": 3347,
+                    "length": 83,
+                    "text": "De forma geral, movimentação e combate são bem crocantes, mas nem tudo são flores. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.91,
+                                "negative": 0.09
+                            },
+                            "offset": 3363,
+                            "length": 12,
+                            "text": "movimentação",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/27/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.91,
+                                "negative": 0.09
+                            },
+                            "offset": 3378,
+                            "length": 7,
+                            "text": "combate",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/27/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.91,
+                                "negative": 0.09
+                            },
+                            "offset": 3394,
+                            "length": 9,
+                            "text": "crocantes",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.91,
+                        "negative": 0.01
+                    },
+                    "offset": 3430,
+                    "length": 73,
+                    "text": "O loop de gameplay propõe uma rotatividade grande de recursos e munição. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3460,
+                            "length": 12,
+                            "text": "rotatividade",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/28/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3473,
+                            "length": 6,
+                            "text": "grande",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.69,
+                        "negative": 0.29
+                    },
+                    "offset": 3503,
+                    "length": 144,
+                    "text": "Traduzindo, vencer inimigos demanda bastante de suas granadas e balas, mas os próprios inimigos também irão dropar bastante desses suprimentos. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.37,
+                        "negative": 0.59
+                    },
+                    "offset": 3647,
+                    "length": 44,
+                    "text": "Nas batalhas contra chefões, isso se perde. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 3691,
+                    "length": 100,
+                    "text": "O primeiro chefão, uma espécie de torreta gigante, escapa disso ao trazer hordas de aliens consigo. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.45,
+                        "negative": 0.54
+                    },
+                    "offset": 3791,
+                    "length": 162,
+                    "text": "Contra a Liga da Justiça, entretanto, houve mais de uma ocasião em que a luta se arrastava bem mais do que deveria por conta da dificuldade de encontrar recursos.",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0.2,
+                        "negative": 0.7
+                    },
+                    "offset": 3953,
+                    "length": 197,
+                    "text": "Esses confrontos não são inteiramente ruins, e conseguem entreter com um ou outro recurso diferenciado na gameplay, mas de forma geral há a falta de uma sensação \"épica\" em praticamente todas eles.",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.94,
+                                "negative": 0.06
+                            },
+                            "offset": 3959,
+                            "length": 10,
+                            "text": "confrontos",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/33/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.94,
+                                "negative": 0.06
+                            },
+                            "offset": 3991,
+                            "length": 5,
+                            "text": "ruins",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.4,
+                        "negative": 0.58
+                    },
+                    "offset": 4150,
+                    "length": 264,
+                    "text": "Desde o começo da campanha, o quarteto de protagonistas não tem qualquer controle sobre seu destino: Amanda Waller pode explodir seus cérebros ao clique de um botão — e ela faz questão de te lembrar disso em vários momentos, numa frequência que chega a ser chata. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.68,
+                        "neutral": 0.28,
+                        "negative": 0.04
+                    },
+                    "offset": 4414,
+                    "length": 110,
+                    "text": "Ainda assim, Waller e o Esquadrão brilham nos diálogos, no humor e, surpreendentemente, em cenas mais sérias. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4438,
+                            "length": 9,
+                            "text": "Esquadrão",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/35/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4460,
+                            "length": 8,
+                            "text": "diálogos",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/35/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4473,
+                            "length": 5,
+                            "text": "humor",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/35/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4448,
+                            "length": 7,
+                            "text": "brilham",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.34,
+                        "negative": 0.62
+                    },
+                    "offset": 4524,
+                    "length": 126,
+                    "text": "Debra Wilson passa toda a robustez que a personagem requer, mas consegue demonstrar as hipocrisias e fragilidades da militar. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4524,
+                            "length": 12,
+                            "text": "Debra Wilson",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/36/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4550,
+                            "length": 8,
+                            "text": "robustez",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.56,
+                        "neutral": 0.39,
+                        "negative": 0.06
+                    },
+                    "offset": 4650,
+                    "length": 243,
+                    "text": "O mesmo vale para o quarteto protagonista, com destaque para Daniel Lapaine, o Capitão Bumerangue.Os coadjuvantes também têm seu mérito, com destaque para a releitura de Hera Venenosa — ou só Hera mesmo —, que dá bastante leveza em suas cenas.",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.73,
+                        "neutral": 0.25,
+                        "negative": 0.02
+                    },
+                    "offset": 4893,
+                    "length": 104,
+                    "text": "O carisma dos personagens é mais que suficiente para embalar uma campanha divertida, mesmo no modo solo.",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4958,
+                            "length": 8,
+                            "text": "campanha",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/38/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4967,
+                            "length": 9,
+                            "text": "divertida",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
