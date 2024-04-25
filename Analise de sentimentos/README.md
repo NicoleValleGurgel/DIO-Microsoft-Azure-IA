@@ -9,7 +9,7 @@ Análise de Sentimentos com Language Studio </span>
 > <h4>OBS: Usei a <a href="https://www.theenemy.com.br/playstation/criticas/review-suicide-squad-kill-the-justice-league html">critica</a></h4> do jogo "Suicide Squad" para a análise de sentimentos.
 
 
-![review-suicide-squad-kill-the-justice-league](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/5fe199aa-60f8-4f11-8557-3c109f3acb89)
+![review-suicide-squad-kill-the-justice-league](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/eea71c8b-9a2b-447c-84ef-751ab1572235)
 
 ## Screenshots do teste:
 
