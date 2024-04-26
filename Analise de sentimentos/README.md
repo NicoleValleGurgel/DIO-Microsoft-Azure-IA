@@ -9,26 +9,26 @@ Análise de Sentimentos com Language Studio </span>
 > <h4>OBS: Usei a <a href="https://www.theenemy.com.br/playstation/criticas/review-suicide-squad-kill-the-justice-league html">critica</a></h4> do jogo "Suicide Squad" para a análise de sentimentos.
 
 
-![review-suicide-squad-kill-the-justice-league](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/5fe199aa-60f8-4f11-8557-3c109f3acb89)
+![review-suicide-squad-kill-the-justice-league](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/eea71c8b-9a2b-447c-84ef-751ab1572235)
 
-## Screenshots do teste:
+## Screenshots do resultado:
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/0c66c5e8-57d7-40db-b9aa-10ea89376914)
-
-
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/f7d8336a-9e9c-4edf-84a3-2a0460490619)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/e2a6844c-1a19-4fee-85b8-6c39f6606d8b)
 
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/195f2567-94d4-4f49-b321-495fe860a9e0)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/45403dd0-1775-434c-9954-b9a0d2ceda9e)
 
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/15099c93-7b86-43d1-a493-a2f82604be38)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/570ad35c-5da5-44fe-9703-7040dd181a48)
 
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/ded87114-a780-4309-9171-78fb6bc6bb77)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/58474809-514e-434b-87af-93d734cb7450)
 
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/290a16e8-0223-465f-b8dc-9d308a41423b)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/b2d1a46d-8c87-4c18-8dc8-f97f3cb586e6)
 
 
-![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/ecb1129b-1147-4d05-84c6-aa86c11fddc2)
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/2035bc8f-a890-4358-9473-8d32d57904d2)
+
+
+![image](https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/b284e225-8790-448d-9925-1038e8ca300f)
