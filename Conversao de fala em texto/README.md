@@ -1,4 +1,9 @@
-# Conversão de fala em texto com Speech Studio
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/dc92e499-6ec6-4c82-af3f-00c40538ca80.png"></a>
+    <span> 
+Conversão de fala em texto com Speech Studio </span>
+</h1>
 
 <img align="right" src="https://github.com/NicoleValleGurgel/DIO-Microsoft-Azure-IA/assets/160984178/c0a6a6d8-4960-415b-82fb-645e57ea7ab8" width="200"/>
 
